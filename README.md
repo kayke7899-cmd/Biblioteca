@@ -101,15 +101,6 @@ Quantidade em estoque: 10
 --------------------------------------------------
 ```
 
-## 🔮 Melhorias futuras
-
-- [ ] Menu interativo para cadastrar, listar, buscar e remover livros
-- [ ] Armazenar os livros em uma lista (`ArrayList<Livro>`)
-- [ ] Validação das entradas do usuário
-- [ ] Persistência dos dados em arquivo ou banco de dados
-- [ ] Métodos `get` e `set` para os atributos
-- [ ] Testes unitários com JUnit
-
 ## 👤 Autor
 
 **Kayke Augusto Martins Araujo**
