@@ -106,7 +106,6 @@ Quantidade em estoque: 10
 **Kayke Augusto Martins Araujo**
 
 - GitHub: [@kayke7899-cmd](https://github.com/kayke7899-cmd)
-- LinkedIn: _adicione o link do seu perfil_
 
 ---
 
